@@ -8,6 +8,7 @@ Wzorce Kreacyjne
   - 04 - Builder - Budowniczy
   - 05 - Pototype - Prototyp
   - 06 - Singleton
+  
 Strukturalne
   - 01 - Adapter - Wrapper
   - 02 - Bridge - Most
