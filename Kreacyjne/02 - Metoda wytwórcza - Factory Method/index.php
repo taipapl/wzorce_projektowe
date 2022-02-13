@@ -1,5 +1,7 @@
 <?php
 
+// 02 - Metoda wytwórcza - Factory Method
+
 declare(strict_types=1);
 
 interface Pojazd

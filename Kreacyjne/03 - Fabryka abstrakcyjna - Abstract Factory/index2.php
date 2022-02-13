@@ -1,5 +1,7 @@
 <?php
 
+// 03 - Fabryka abstrakcyjna - Abstract Factory
+
 abstract class Button
 {
     abstract function getName();

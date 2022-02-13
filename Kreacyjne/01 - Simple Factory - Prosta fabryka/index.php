@@ -1,5 +1,7 @@
 <?php
 
+// 01 - Simple Factory - Prosta fabryka
+
 abstract class Pojazd
 {
 
